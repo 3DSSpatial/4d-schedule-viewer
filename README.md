@@ -2,6 +2,11 @@
 
 This demos shows a large complex BIM model comprised of 7 IFC files loaded into the Zea Engine and controlled using a schedule.
 
+## Running the demo
+1. Clone this repo
+2. Launch a basic web server from the root folder. (e.g. by running http-server from the command prompt. see https://www.npmjs.com/package/http-server)
+3. Point your browser to the address that the webserver is serving on.
+
 ## Loading the BIM data.
 
 The IFC files were exported from Revit, and the 4D Bim information authored in Navisworks.
